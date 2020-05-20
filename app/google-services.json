@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "394652889581",
+    "firebase_url": "https://shopeasy-e4c43.firebaseio.com",
+    "project_id": "shopeasy-e4c43",
+    "storage_bucket": "shopeasy-e4c43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394652889581:android:211fa110267a92704d37e4",
+        "android_client_info": {
+          "package_name": "com.example.shopeasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394652889581-6gunfjhp3cr3cs75on8bh0koua2jf5di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4hlZnH6bb6dtqaiZoSM0pscCh1tvdWGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394652889581-6gunfjhp3cr3cs75on8bh0koua2jf5di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
